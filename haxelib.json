@@ -1,0 +1,13 @@
+{
+	"name": "MSX",
+	"url" : "https://github.com/mountainstorm/msx",
+	"license": "MIT",
+	"tags": ["game", "haxe", "haxepunk", "openfl"],
+	"description": "A HaxePunk library for making simple games",
+	"version": "0.0.1",
+	"dependencies": {
+		"lime": "",
+		"openfl": "",
+		"haxepunk": ""
+	}
+}
